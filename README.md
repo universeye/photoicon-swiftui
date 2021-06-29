@@ -1,5 +1,5 @@
 # Photos App Icon
-Photos icon build with SwiftUI, distribute different colors to rotated copies using hue rotation.
+Photos icon built with SwiftUI, distribute different colors to rotated copies using hue rotation.
 
 # Menu
 * [Screenshots](#screenshots)
